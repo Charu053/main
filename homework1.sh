@@ -7,5 +7,5 @@ read input
 
 input=input*2
 echo "$input"
-echo "Exiting"
+echo "Exiting the script!"
 
